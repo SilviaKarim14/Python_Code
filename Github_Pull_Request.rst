@@ -14,29 +14,7 @@ repository.
 
 Click on the ‘Fork’ button:
 
-.. code:: python
-
-    from IPython.display import Image
-    Image(filename = "img1.png")
-
-
-
-
-.. image:: output_2_0.png
-
-
-
-This is what you see after clicking on the ‘Fork’ button:
-
-.. code:: python
-
-    from IPython.display import Image
-    Image(filename = "img2.png")
-
-
-
-
-.. image:: output_4_0.png
+![title](img1.png)
 
 
 
